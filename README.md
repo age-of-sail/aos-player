@@ -8,8 +8,9 @@ released in-game or that players are expected to have access to.
 ## Contents
 
 Anything under [`Published/`](./Published/) is meant to end up in the generated site; everything
-else in the repo is not. `aos-site` doesn't yet read from `aos-player` at all — support for
-building the site from this folder is still to be built — but that's the intended boundary.
+else in the repo is not. `aos-site build`/`deploy` reads each subfolder of `Published/` and copies
+it into the generated site as a top-level section — a peer of `Sessions`, not nested under a
+"Published" folder.
 
 | File / Directory | Description |
 |---|---|
