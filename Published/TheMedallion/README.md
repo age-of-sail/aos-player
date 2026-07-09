@@ -1,4 +1,4 @@
-[^ Up](../README.md) | [The Medallion Home](./README.md)
+[^ Up](../../README.md) | [The Medallion Home](./README.md)
 
 ---
 # The Medallion
@@ -11,4 +11,4 @@ This section contains documents specific to the ship *The Medallion*.
 *   [the-medallion-final-accounting.md](./the-medallion-final-accounting.md): The final accounting for the refit and provisioning of *The Medallion*.
 
 ---
-[^ Up](../README.md) | [The Medallion Home](./README.md)
+[^ Up](../../README.md) | [The Medallion Home](./README.md)

@@ -1,4 +1,4 @@
-[<- Previous](./FateOfTheKingship.md) | [^ Up](./README.md) | [Player Home](./README.md) | [Next ->](./example-ship-articles.md)
+[^ Up](../README.md) | [Miscellaneous Home](./README.md) | [Next ->](./example-ship-articles.md)
 
 ---
 # Player - Suggested Articles of Agreement
@@ -133,4 +133,4 @@ Herein be a draft of the Articles of Agreement for the company of this vessel, o
 3.  These articles may be amended only by a majority vote of the company, and with the consent of the Captain and Quartermaster.
 
 ---
-[<- Previous](./FateOfTheKingship.md) | [^ Up](./README.md) | [Player Home](./README.md) | [Next ->](./example-ship-articles.md)
+[^ Up](../README.md) | [Miscellaneous Home](./README.md) | [Next ->](./example-ship-articles.md)
