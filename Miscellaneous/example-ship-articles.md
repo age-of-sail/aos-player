@@ -1,4 +1,4 @@
-[<- Previous](./ship-articles.md) | [^ Up](../README.md) | [Miscellaneous Home](./README.md)
+[<- Previous](./ship-articles.md) | [^ Up](../README.md) | [Miscellaneous Home](./README.md) | [Next ->](./mason-wife-letter.md)
 
 ---
 # Player - Example Ship Articles
@@ -131,4 +131,4 @@ IV. Shares of booty are provided as follows: "the Captain, or chief Commander, i
 V. "In the prizes they take, it is severely prohibited to every one to usurp anything, in particular to themselves. ... Yea, they make a solemn oath to each other not to abscond, or conceal the least thing they find amongst the prey. If afterwards any one is found unfaithful, who has contravened the said oath, immediately he is separated and turned out of the society."
 
 ---
-[<- Previous](./ship-articles.md) | [^ Up](../README.md) | [Miscellaneous Home](./README.md)
+[<- Previous](./ship-articles.md) | [^ Up](../README.md) | [Miscellaneous Home](./README.md) | [Next ->](./mason-wife-letter.md)
