@@ -10,6 +10,7 @@ Narrative pieces distributed to players between sessions.
 *   [interlude-3.txt](./interlude-3.txt)
 *   [interlude-4.txt](./interlude-4.txt)
 *   [interlude-5.txt](./interlude-5.txt)
+*   [interlude-6.txt](./interlude-6.txt)
 
 ---
 [^ Up](../../README.md) | [Interludes Home](./README.md)
