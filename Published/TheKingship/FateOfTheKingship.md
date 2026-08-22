@@ -1,13 +1,4 @@
-[^ Up](../../README.md) | [The Kingship Home](./README.md)
-
----
-# Player - Final Account of Abiyard, Cleric of the Kingship
-
-## Table of Contents
-
-- [Overview](#overview)
-
-## Overview
+# Final Account of Abiyard, Cleric of the Kingship
 
 This document contains the final, fragmented writings of a cleric aboard the Kingship.
 
@@ -33,6 +24,3 @@ This document contains the final, fragmented writings of a cleric aboard the Kin
 
 
 …must surely ha’perished, close as they were. E’en this far a’sea, we were near o’ercome by the effect. Baynar was right t’insist on bringing the Dyad, and aye maintain its loss will o’a surety prove…
-
----
-[^ Up](../../README.md) | [The Kingship Home](./README.md)
