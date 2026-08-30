@@ -1,0 +1,26 @@
+name: Report an Issue
+description: Report something wrong, missing, or unclear on the campaign site.
+title: "[Issue]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting an issue! This could be an incorrect fact in a
+        summary, something missing, or just a question — whatever it is,
+        fill in what you can below.
+  - type: textarea
+    id: where
+    attributes:
+      label: Where is the problem?
+      description: Which page, session, or piece of content is this about?
+      placeholder: e.g. Chapter 5, Session 9 summary
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What's the problem?
+      description: Describe what's wrong, missing, or unclear.
+    validations:
+      required: true
